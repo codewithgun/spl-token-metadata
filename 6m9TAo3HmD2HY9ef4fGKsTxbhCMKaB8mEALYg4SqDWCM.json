@@ -1,6 +1,6 @@
 {
   "name": "Meteora LP",
   "symbol": "MeteoraLP",
-  "image": "https://github.com/codewithgun/spl-token-metadata/blob/master/6m9TAo3HmD2HY9ef4fGKsTxbhCMKaB8mEALYg4SqDWCM.png?raw=true",
+  "image": "https://raw.githubusercontent.com/codewithgun/spl-token-metadata/master/6m9TAo3HmD2HY9ef4fGKsTxbhCMKaB8mEALYg4SqDWCM.png",
   "description": "Meteora Liquidity Provider Token. DO NOT BURN!"
 }
